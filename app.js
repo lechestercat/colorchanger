@@ -1,0 +1,1 @@
+var butt = document.querySelector("button");
